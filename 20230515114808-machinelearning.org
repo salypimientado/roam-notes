@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       machine-learning
+:END:
+#+title: machine learning
+
+Es una rama de la [[id:AI][AI]] que se enfoca en el uso de la información
+disponible y de los algoritmos para imitar el proceso de aprendizaje
+de los seres humanos.
+
+Hay 3 tipos de machine learning:
++ [[id:8b288489-f107-4b81-a74c-49910087f536][Aprendizaje supervisado]]
++ [[id:a48be5f5-84be-460b-9f64-756ad6a9cf23][Aprendizaje no supervisado]]
++ [[id:2c323901-06eb-47f1-b649-bed8462cbbff][Aprendizaje por refuerzo]]
+

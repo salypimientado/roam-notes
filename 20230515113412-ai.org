@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       AI
+:END:
+#+title: AI
+
+Aprovecha los recursos de las computadoras para emular las
+capacidades de resolver problemas y tomar decisiones de los seres
+humanos.
+
+

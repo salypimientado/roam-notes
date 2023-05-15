@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       06ed93c5-2004-480b-9d23-0f88c7fa6258
+:END:
+#+title: Redes neuronales
+
++ Subconjunto de técnicas del [[id:AI][AI]]
++ Inspiradas en el cerebro (humano)
++ Emulan la dinámica bio-química y eléctrica de la comunicación entre neuronas
